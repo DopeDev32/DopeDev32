@@ -4,12 +4,35 @@ I'm a 20-year-old developer, and I'm passionate about crafting digital experienc
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` 
+
+**Programming Languages:** `Python` `JavaScript`   
  
-**Version Control:** `Git` `Github`
+ 
 
-**Backend Development:**  `Node.js` `Firebase` 
+**Markup Languages:** `CSS` `HTML` 
+ 
+ 
 
+**Version Control Systems:** `GitHub` `Git`   
+
+ 
+
+**Databases:** `MongoDB` `MySQL`
+
+ 
+
+**Backend Frameworks/Libraries:**  `Firebase` `Node.js` `Flask`     
+ 
+ 
+**Frontend Frameworks/Libraries:** `React` `Tailwind CSS`
+
+
+**API Development Tools:** `Postman` 
+
+
+
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DopeDev32&layout=compact) -->
 
 ## ✨ Fun Facts 
 
