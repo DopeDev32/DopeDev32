@@ -23,7 +23,7 @@ I'm a 20-year-old developer, passionate about crafting digital experiences
 
 </div>
 
-
+<!--
 
 <div align="center">
  
@@ -54,6 +54,8 @@ I'm a 20-year-old developer, passionate about crafting digital experiences
 
 **API Development Tools:** `Postman` 
 </div>
+
+-->
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
