@@ -13,10 +13,10 @@ I'm a 20-year-old developer, passionate about crafting digital experiences
 
 <div align="center">
 
-- 🔭 I’m currently working on Ai/ ML
-- 🌱 I’m currently learning GoLang, DevOps
-- 💬 Ask me about MERN
-- 📫 How to reach me: 
+ 🔭 I’m currently working on Ai/ ML
+ 🌱 I’m currently learning GoLang, DevOps
+ 💬 Ask me about MERN
+ 📫 How to reach me: 
 
 </div>
 
