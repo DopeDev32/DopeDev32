@@ -1,7 +1,25 @@
-### Hey, I'm Debashis 👋🏽
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poetsen+One&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Debashis+!;" />  
+</h1>
 
-I'm a 20-year-old developer, and I'm passionate about crafting digital experiences. 
+<br>
+<h3 align = "center">
+I'm a 20-year-old developer, passionate about crafting digital experiences
+</h3>
 
+<div align="center">
+
+- 🔭 I’m currently working on Ai/ ML
+- 🌱 I’m currently learning GoLang, React.js
+- 💬 Ask me about MERN
+- 📫 How to reach me: 
+
+</div>
+
+
+
+<div align="center">
+ 
 ## 📦 Toolbox
 
 
@@ -28,17 +46,35 @@ I'm a 20-year-old developer, and I'm passionate about crafting digital experienc
 
 
 **API Development Tools:** `Postman` 
+</div>
 
-
-
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github,figma,tailwind,git,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,mysql,flask" /><br>
+</div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DopeDev32&layout=compact) -->
 
-## ✨ Fun Facts 
+<!--
+
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+
+-->
+
+
+<div align="center">
+ 
+<!-- ## ✨ Fun Facts 
 
 - I am also interested in video editing.
-- As a kid, I wanted to be an astronaut.
+- 
 - I love using Mac after switching from Linux.
+</div>
 <!--
 **DopeDev32/DopeDev32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
