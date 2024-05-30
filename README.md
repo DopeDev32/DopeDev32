@@ -19,12 +19,12 @@ I'm a 20-year-old developer, passionate about crafting digital experiences
  
  💬 Ask me about MERN
  
- 📫 How to reach me: 
+
 
 </div>
 
 <!--
-
+  📫 How to reach me: 
 <div align="center">
  
 ## 📦 Toolbox
@@ -64,10 +64,10 @@ I'm a 20-year-old developer, passionate about crafting digital experiences
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DopeDev32&layout=compact) -->
-         firebase tailwind bootstrap, react,
+        
 <!--
 
-
+ firebase tailwind bootstrap, react,
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
