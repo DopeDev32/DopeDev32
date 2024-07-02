@@ -13,9 +13,9 @@ I'm a 20-year-old developer, passionate about crafting digital experiences
 
 <div align="center">
 
- 🔭 I’m currently working on Ai/ ML
+
  
- 🌱 I’m currently learning GoLang, DevOps
+ 🌱 I’m currently learning Android Development
  
  💬 Ask me about MERN
  
