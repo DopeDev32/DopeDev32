@@ -60,7 +60,7 @@ I'm a 20-year-old developer, passionate about crafting digital experiences
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,github,figma,git,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,java,mysql,flask,androidstudio,kotlin" /><br>
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DopeDev32&layout=compact) -->
