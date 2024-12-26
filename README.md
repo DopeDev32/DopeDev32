@@ -15,7 +15,7 @@ I'm a 20-year-old developer, passionate about crafting digital experiences
 
 
  
- 🌱 I’m currently learning Android Development
+ 🌱 I’m currently learning Android App Development
  
  💬 Ask me about MERN
  
