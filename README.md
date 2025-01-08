@@ -8,9 +8,8 @@
 </h1>
 
 <br>
-
+<img align="right" height="190" width="300" alt="GIF" src="GIF/code.gif"/>
 <h3 >
-    
 I'm a 20-year-old developer, passionate about crafting digital experiences
 </h3>
 
