@@ -4,7 +4,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poetsen+One&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Debashis+!;" />  
-    <img align="end" alt = "profile views" src="https://komarev.com/ghpvc/?username=mshdabiola&style=flat&color=blue"/>
+    <!--<img align="end" alt = "profile views" src="https://komarev.com/ghpvc/?username=mshdabiola&style=flat&color=blue"/>-->
 </h1>
 
 <br>
