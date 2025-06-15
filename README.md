@@ -10,7 +10,7 @@
 <br>
 <img align="right" height="190" width="300" alt="GIF" src="GIF/code.gif"/>
 <h3 >
-I'm a 20-year-old developer, passionate about crafting digital experiences
+I'm a 21-year-old developer, passionate about building real-world solutions that people can actually use
 </h3>
 
 <div >
