@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poetsen+One&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Debashis+!;" />  
     <!--<img align="end" alt = "profile views" src="https://komarev.com/ghpvc/?username=dopedev32&style=flat&color=blue"/>-->
 </h1>
-
 <br>
 <img align="right" height="190" width="300" alt="GIF" src="GIF/code.gif"/>
 <h3 >
@@ -14,15 +13,10 @@ I'm a 21-year-old developer, passionate about building real-world solutions that
 </h3>
 
 <div >
-
-
- 
  🌱 I’m currently learning Android App Development
- 
+
  💬 Ask me about MERN
  
-
-
 </div>
 
 <!--
@@ -62,7 +56,7 @@ I'm a 21-year-old developer, passionate about building real-world solutions that
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,git,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,sqlite,androidstudio,kotlin,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,react,redis,redux,tailwind,express,mongodb,sqlite,kotlin,firebase" /><br>
 </div>
 
 <!--
