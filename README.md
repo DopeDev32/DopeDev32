@@ -2,7 +2,9 @@
 <div align="left">
   <b><pwn>🔴 🟡 🟢</pwn></b>
 </div>
-
+<!-- <div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+Debashis+here+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
+</div> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poetsen+One&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Debashis+!;" />  
