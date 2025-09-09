@@ -1,6 +1,8 @@
-<!--  <img align="" alt="Coding" width="100" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">  
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
--->
+<!--  <img align="" alt="Coding" width="100" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">  -->
+<div align="left">
+  <b><pwn>🔴 🟡 🟢</pwn></b>
+</div>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poetsen+One&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Debashis+!;" />  
