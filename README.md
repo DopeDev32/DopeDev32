@@ -2,14 +2,14 @@
 <div align="left">
   <b><pwn>🔴 🟡 🟢</pwn></b>
 </div>
-<!-- <div align="center">
+ <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+Debashis+here+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
-</div> -->
+</div> 
 
-<h1 align="center">
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poetsen+One&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Debashis+!;" />  
-    <!--<img align="end" alt = "profile views" src="https://komarev.com/ghpvc/?username=dopedev32&style=flat&color=blue"/>-->
-</h1>
+</h1> -->
+<!--<img align="end" alt = "profile views" src="https://komarev.com/ghpvc/?username=dopedev32&style=flat&color=blue"/>-->
 <br>
 <img align="right" height="190" width="300" alt="GIF" src="GIF/code.gif"/>
 <h3 >
