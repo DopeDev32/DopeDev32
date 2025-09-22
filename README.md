@@ -1,78 +1,83 @@
-<!--  <img align="" alt="Coding" width="100" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">  -->
-<div align="left">
+ <!-- <img align="" alt="Coding" width="100" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">  -->
+<!--<div align="left">
   <b><pwn>🔴 🟡 🟢</pwn></b>
-</div>
- <div align="center">
+</div>-->
+ <!--<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+Debashis+here+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
-</div> 
+</div> -->
 
-<!-- <h1 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poetsen+One&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Debashis+!;" />  
-</h1> -->
+</h1> 
 <!--<img align="end" alt = "profile views" src="https://komarev.com/ghpvc/?username=dopedev32&style=flat&color=blue"/>-->
-<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+  
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **Who Am I?**
+
+<div>
+  
 <img align="right" height="190" width="300" alt="GIF" src="GIF/code.gif"/>
-<h3 >
-I'm a 21-year-old developer, passionate about building real-world solutions that people can actually use
-</h3>
 
-<div >
- 🌱 I’m currently learning Android App Development
+🎯 **Passionate Full Stack Developer** crafting digital experiences
 
- 💬 Ask me about MERN
- 
+🌟 **3+ years** of turning coffee into code  
+
+🚀 **Specialized in** building scalable web applications
+
+💡 **Love for** clean architecture and modern development practices
+
+🎨 **Frontend Enthusiast** who believes in pixel-perfect designs
+
+⚡ **Backend Wizard** optimizing performance and scalability
+
+🌱 **Continuous learner** staying ahead of tech trends
+
+<br clear="both"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Tech Stack </b>
+
+<div align="center">
+
+### 🎨 **Frontend Magic**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,sass,bootstrap,redux&theme=dark" />
+
+### ⚙️ **Backend Power** 
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,php,laravel&theme=dark" />
+
+### 🗄️ **Database Mastery**
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,firebase&theme=dark" />
+
+### ☁️ **DevOps & Cloud**
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,github,git,linux,nginx&theme=dark" />
+
+### 🛠️ **Tools & More**
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,gradle,webpack,vite&theme=dark" />
+
 </div>
 
 <!--
-  📫 How to reach me: 
-<div align="center">
- 
-## 📦 Toolbox
-
-
-**Programming Languages:** `Python` `JavaScript`   
- 
- 
-
-**Markup Languages:** `CSS` `HTML` 
- 
- 
-
-**Version Control Systems:** `GitHub` `Git`   
-
- 
-
-**Databases:** `MongoDB` `MySQL`
-
- 
-
-**Backend Frameworks/Libraries:**  `Firebase` `Node.js` `Flask`     
- 
- 
-**Frontend Frameworks/Libraries:** `React` `Tailwind CSS`
-
-
-**API Development Tools:** `Postman` 
-</div>
-
--->
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,git,postman" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,react,redis,redux,tailwind,express,mongodb,sqlite,kotlin,firebase" /><br>
-</div>
-
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DopeDev32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%">
-</p> 
+</div>  
 -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DopeDev32&layout=compact) -->
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;**Git Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DopeDev32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%">
+</p> 
+
+
         
 <!--
 
- firebase tailwind bootstrap, react,
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
@@ -80,26 +85,8 @@ I'm a 21-year-old developer, passionate about building real-world solutions that
 
 -->
 
+---
 
 <div align="center">
- 
-<!-- ## ✨ Fun Facts 
-
-- I am also interested in video editing.
-- 
-- I love using Mac after switching from Linux.
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%">
 </div>
-<!--
-**DopeDev32/DopeDev32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
