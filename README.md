@@ -48,7 +48,7 @@ const debashis = {
     location: "Pune, Maharashtra 📍",
     education: "B.Tech Computer Science 🎓",
     passion: "Building things people actually use 💡",
-    currentFocus: "Full Stack Development & Problem Solving",
+    currentFocus: "Full Stack Development & AI/ML",
     lifePhilosophy: "Code with purpose, learn with passion"
 };
 ```
