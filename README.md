@@ -7,32 +7,57 @@
 </div> -->
 
 <h1 align="center">
-     
-
-
+    
 <!--<img align="end" alt = "profile views" src="https://komarev.com/ghpvc/?username=dopedev32&style=flat&color=blue"/>-->
 <!-- <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div> -->
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Poetsen+One&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Debashis+!;" /> 
-  
+
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **Who Am I?**
 
+
 <div>
-  
-<img align="right" height="190" width="300" alt="GIF" src="GIF/code.gif"/>
 
-### 🎯 **Passionate Full Stack Developer** crafting digital experiences
+<!--
+ 
+## 🙋‍♂️ About Me
+```typescript
+const debashis = {
+    location: "Pune, Maharashtra 📍",
+    education: "B.Tech Computer Science 🎓",
+    passion: "Building things people actually use 💡",
+    currentFocus: "Full Stack Development & Problem Solving",
+    lifePhilosophy: "Code with purpose, learn with passion"
+};
+```
+-->
+ 
+ </div>
 
-### 🚀  **Specialized in** building scalable web applications
+ <table height=300 align="center">
+<tr>
+<td width="40%"  valign="top">
+ 
 
-### 💡 **Love for** clean architecture and modern development practices
 
-### 🌱 **Continuous learner** staying ahead of tech trends
+```typescript
+const debashis = {
+    location: "Pune, Maharashtra 📍",
+    education: "B.Tech Computer Science 🎓",
+    passion: "Building things people actually use 💡",
+    currentFocus: "Full Stack Development & Problem Solving",
+    lifePhilosophy: "Code with purpose, learn with passion"
+};
+```
 
-<br clear="both"/>
-</div>
+<td width="60%"  valign="center" align="right">
+<img src="GIF/code.gif" alt="Coding GIF" width=350 />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -40,23 +65,15 @@
 
 <div align="center">
 
-### 🎨 **Frontend Magic**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,redux&theme=dark" />
-
-### ⚙️ **Backend Power** 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
-
-### 🗄️ **Database Mastery**
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,firebase&theme=dark" />
-
-### ☁️ **DevOps & Cloud**
-<img src="https://skillicons.dev/icons?i=aws,github,git,nginx&theme=dark" />
-
-### 🛠️ **Tools & More**
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,gradle,webpack,vite&theme=dark" />
+| Category | Technologies |
+|----------|-------------|
+| 🎨 **Frontend Magic** | <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,redux&theme=dark" /> |
+| ⚙️ **Backend Power** | <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" /> |
+| 🗄️ **Database Mastery** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,firebase&theme=dark" /> |
+| ☁️ **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=aws,github,git,nginx&theme=dark" /> |
+| 🛠️ **Tools & More** | <img src="https://skillicons.dev/icons?i=vscode,figma,postman,gradle,webpack,vite&theme=dark" /> |
 
 </div>
-
 <!--
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
@@ -68,7 +85,7 @@
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;**Git Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DopeDev32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DopeDev32&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%">
 </p> 
 
 
@@ -82,7 +99,6 @@
 
 -->
 
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%">
