@@ -44,13 +44,13 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,redux&theme=dark" />
 
 ### ⚙️ **Backend Power** 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
 
 ### 🗄️ **Database Mastery**
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,firebase&theme=dark" />
 
 ### ☁️ **DevOps & Cloud**
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,git,linux,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,github,git,nginx&theme=dark" />
 
 ### 🛠️ **Tools & More**
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman,gradle,webpack,vite&theme=dark" />
