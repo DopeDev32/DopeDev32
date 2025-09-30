@@ -18,10 +18,10 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **Who Am I?**
 
-
+<!--
 <div>
 
-<!--
+
  
 ## 🙋‍♂️ About Me
 ```typescript
@@ -33,16 +33,16 @@ const debashis = {
     lifePhilosophy: "Code with purpose, learn with passion"
 };
 ```
--->
+
  
  </div>
+-->
 
+<!--
  <table height=300 align="center">
 <tr>
 <td width="40%"  valign="top">
  
-
-
 ```typescript
 const debashis = {
     location: "Pune, Maharashtra 📍",
@@ -52,12 +52,26 @@ const debashis = {
     lifePhilosophy: "Code with purpose, learn with passion"
 };
 ```
-
 <td width="60%"  valign="center" align="right">
 <img src="GIF/code.gif" alt="Coding GIF" width=350 />
 </td>
 </tr>
 </table>
+-->
+
+<div>
+<img align="right" height="190" width="300" alt="GIF" src="GIF/code.gif"/>
+ 
+### 🎯 **Passionate Full Stack Developer** crafting digital experiences
+
+### 🚀  **Specialized in** building scalable web applications
+
+### 💡 **Love for** clean architecture and modern development practices
+
+### 🌱 **Continuous learner** staying ahead of tech trends
+
+<br clear="both"/>
+</div>
 
 ---
 
