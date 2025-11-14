@@ -64,7 +64,7 @@ const debashis = {
  
 ### 🎯 **Passionate Full Stack Developer** crafting digital experiences
 
-### 🚀  **Specialized in** building scalable web applications
+### 🚀  **Specialized in** building web applications
 
 ### 💡 **Love for** clean architecture and modern development practices
 
